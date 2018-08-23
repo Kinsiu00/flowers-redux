@@ -9,7 +9,7 @@ class User extends Component {
     render() {
         const {first, last} = this.props.eachUser
         return (
-            <p onClick={this.handleCurrentUser}>{last}, {first}</p>
+            <p className='clickMe' onClick={this.handleCurrentUser}>{last}, {first}</p>
         )
     }
 }

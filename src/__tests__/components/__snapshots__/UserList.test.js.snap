@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UserList> renders UserList 1`] = `
+<div>
+  <h4>
+    List of Users
+  </h4>
+</div>
+`;

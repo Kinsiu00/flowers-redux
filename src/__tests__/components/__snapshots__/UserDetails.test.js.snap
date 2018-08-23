@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<UserDetails> renders UserDetails 1`] = `
+<div>
+  <p>
+    Name: 
+     
+  </p>
+  <p>
+    Age: 
+  </p>
+  <p>
+    Location: 
+  </p>
+  <p />
+</div>
+`;
